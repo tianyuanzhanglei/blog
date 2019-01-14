@@ -1,0 +1,28 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.show{
+	word-wrap: break-word;
+	word-break: normal;
+	margin-top: 100px;
+	position: absolute;
+	top: 0;
+	left: 100px;
+	width: 1000px;
+	/* background: red; */
+	padding: 0 10px;
+	/* margin: 0 auto; */
+}
+.showTitle{
+  height: 50px;
+  width: 100%;
+  font-family: 黑体;
+}
+.showMain{
+  /*height: 400px;*/
+  width: 100%;
+}

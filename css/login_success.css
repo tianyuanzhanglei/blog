@@ -1,0 +1,15 @@
+
+/* 新加 */
+.infor{
+	position: absolute;
+	top: 100px;
+	right: 100px;
+	height: 300px;
+	width: 270px;
+	border: 2px solid #fff;
+	
+}
+.write:hover, a:visited, a:link, a:active {
+    color: #000;
+	text-decoration: none;
+}
